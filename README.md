@@ -27,7 +27,7 @@ A: While there's no harm in trying incompatible files, compatible files should b
 
 
 **Q: I'm receiving errors when I run the converter, is there anything I can do?**  
-A: If the errors are not related to locating your SAV file then the file is either too old, too new or contains unsupported structures. If this is the case than no, there is nothing you can do aside from fork this repository and update the converter.
+A: If the errors are not related to locating your SAV file then the file is either too old, too new or contains unsupported structures. If this is the case then the short answer is no, there is nothing you can do aside from fork this repository and update the converter.
 
 **Q: How do I change a value in the original SAV file?**  
 A: You can use a hex editor, such as [HxD](https://mh-nexus.de/en/hxd/) to change values in the SAV file.  
