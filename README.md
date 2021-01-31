@@ -1,7 +1,7 @@
 # Unreal Engine 4 Save Game Converter (SAV)
 This library and simple console tool for it will convert the generic UE4 save game file into a JSON for easier analysis. The file extension is usually SAV and the file should begin with the string GVAS.
 
-Back convertion is theoretically possible, but is not implemented.
+Back conversion is theoretically possible, but is not implemented.
 
 Due to limitations of how UE4 serializes the data, some data types might be missing, and might fail deserialization for some games.
 
